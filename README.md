@@ -1,1 +1,2 @@
-# essentials_of_real-time_audio
+# Essentials of Real-time Audio
+This is a Unity Project exploring the use of Audio in a game project.
